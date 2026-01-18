@@ -22,13 +22,23 @@
 
 ## 🛠️ Technikai Stack
 
-A kedvenc eszközeim és technológiáim, amelyekkel nap mint nap dolgozom:
 
 | Kategória | Technológiák |
 | :--- | :--- |
-| **Nyelvek** | ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **Frameworks** | ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat-square&logo=solid&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Eszközök** | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Nyelvek** |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,csharp,typescript,sql" />
+</div>
+| **Frameworks** |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tauri,solidjs,dotnet" />
+</div>
+| **Eszközök** |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ffmpeg,git,github,figma,vscode" />
+</div>
+
+
 
 ---
 
@@ -98,13 +108,5 @@ A programozói gondolkodásmódom alapjait ezeken a projekteken keresztül sajá
 | **MySQLQueries_CLI** | Nyers SQL lekérdezések futtatása C# környezetből. | `Adatbázis` `SQL` |
 | **Szakaszsebesseg** | Átlagsebesség-számítási algoritmusok implementálása. | `Logika` `Algoritmus` |
 | **Hegyek_CLI** | Földrajzi adatok objektumorientált elemzése és szűrése. | `OOP` `Osztályok` |
-
----
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,py,js,bootstrap,express,css,tailwind,mysql,mongodb&perline=9" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=linux,php,nodejs,flutter,docker,laravel,git,github,figma,vscode&perline=10" />
-</div>
 
 ---
