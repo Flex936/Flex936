@@ -26,7 +26,7 @@
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=rust,cs,ts,mysql" height="40" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=tauri,solidjs,dotnet" height="40" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=ffmpeg,git,github,figma,vscode" height="40" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" height="40" /> |
 
 ---
 
