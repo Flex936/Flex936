@@ -7,7 +7,7 @@
   <a href="mailto:tancsik.alex@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/lex936">
+  <a href="https://github.com/Flex936">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
@@ -103,9 +103,9 @@ A programozói gondolkodásmódom alapjait ezeken a projekteken keresztül sajá
 
 ## 📊 GitHub Statisztikák
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flex936&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flex936&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flex936&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flex936&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ---
