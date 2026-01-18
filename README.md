@@ -20,25 +20,13 @@
 
 ---
 
-## 🛠️ Technikai Stack
+## 🛠️ Tech Stack
 
-
-| Kategória | Technológiák |
+| Category | Technologies |
 | :--- | :--- |
-| **Nyelvek** |
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,csharp,typescript,sql" />
-</div>
-| **Frameworks** |
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tauri,solidjs,dotnet" />
-</div>
-| **Eszközök** |
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ffmpeg,git,github,figma,vscode" />
-</div>
-
-
+| **Languages** | <img src="https://skillicons.dev/icons?i=rust,cs,ts,mysql" height="40" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=tauri,solidjs,dotnet" height="40" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=ffmpeg,git,github,figma,vscode" height="40" /> |
 
 ---
 
