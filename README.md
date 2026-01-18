@@ -104,8 +104,8 @@ A programozói gondolkodásmódom alapjait ezeken a projekteken keresztül sajá
 ## 📊 GitHub Statisztikák
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lex936&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lex936&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flex936&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flex936&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
