@@ -26,7 +26,7 @@
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=rust,cs,ts,mysql" height="40" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=tauri,solidjs,dotnet" height="40" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="40" /> <img src="https://img.shields.io/badge/-FFmpeg-007800?style=for-the-badge&logo=ffmpeg&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-Antigravity-black?style=for-the-badge&logo=spacex&logoColor=white" height="40" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="40" /> <br> <img src="https://img.shields.io/badge/-FFmpeg-007800?style=for-the-badge&logo=ffmpeg&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/-Antigravity-black?style=for-the-badge&logo=spacex&logoColor=white" height="40" /> |
 
 ---
 
