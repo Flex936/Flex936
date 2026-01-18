@@ -75,7 +75,7 @@ Ezek a munkák tükrözik a jelenlegi fókuszomat: **Rust** alapú teljesítmén
       <br /><br />
       <ul>
         <li>🎨 <b>Frontend:</b> SolidJS + TypeScript (Reaktív UI).</li>
-        <li>🛡️ <b>Backend:</b> Rust (Kriptográfiailag biztonságos generálás).</li>
+        <li>🛡️ <b>Backend:</b> Rust.</li>
         <li>🔄 <b>Mechanika:</b> Aszinkron kommunikáció a frontend és backend között (Tauri Commands).</li>
       </ul>
       <br />
@@ -85,15 +85,6 @@ Ezek a munkák tükrözik a jelenlegi fókuszomat: **Rust** alapú teljesítmén
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Statisztikák
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
@@ -107,5 +98,14 @@ A programozói gondolkodásmódom alapjait ezeken a projekteken keresztül sajá
 | **MySQLQueries_CLI** | Nyers SQL lekérdezések futtatása C# környezetből. | `Adatbázis` `SQL` |
 | **Szakaszsebesseg** | Átlagsebesség-számítási algoritmusok implementálása. | `Logika` `Algoritmus` |
 | **Hegyek_CLI** | Földrajzi adatok objektumorientált elemzése és szűrése. | `OOP` `Osztályok` |
+
+---
+
+## 📊 GitHub Statisztikák
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lex936&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lex936&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
