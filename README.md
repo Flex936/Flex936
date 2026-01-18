@@ -1,24 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tancsik%20Alex&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Rendszerszintű%20Fejlesztés%20%26%20Modern%20UI&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tancsik%20Alex&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Rendszerszintű%20Fejlesztés%20%2B%20Modern%20UI&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tancsik.alex@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/lex936">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br />
 
-  <h3>
-    Üdvözlöm! Szenvedélyem a nagy teljesítményű szoftverek építése.
-  </h3>
   <p>
     Ez a portfólió a szakmai utamat mutatja be: a középiskolai C# alapoktól a modern <b>Rust</b> és <b>Tauri</b> ökoszisztémáig.
   </p>
@@ -34,7 +28,7 @@ A kedvenc eszközeim és technológiáim, amelyekkel nap mint nap dolgozom:
 | :--- | :--- |
 | **Nyelvek** | ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 | **Frameworks** | ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat-square&logo=solid&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Eszközök** | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Eszközök** | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
@@ -115,7 +109,3 @@ A programozói gondolkodásmódom alapjait ezeken a projekteken keresztül sajá
 | **Hegyek_CLI** | Földrajzi adatok objektumorientált elemzése és szűrése. | `OOP` `Osztályok` |
 
 ---
-
-<div align="center">
-  <p>© 2024 Tancsik Alex. Készült ❤️-el és Rust-tal.</p>
-</div>
