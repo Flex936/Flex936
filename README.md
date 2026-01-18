@@ -101,11 +101,10 @@ A programozói gondolkodásmódom alapjait ezeken a projekteken keresztül sajá
 
 ---
 
-## 📊 GitHub Statisztikák
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flex936&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flex936&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,py,js,bootstrap,express,css,tailwind,mysql,mongodb&perline=9" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux,php,nodejs,flutter,docker,laravel,git,github,figma,vscode&perline=10" />
+</div>
 
 ---
