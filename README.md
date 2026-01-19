@@ -3,7 +3,6 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
@@ -91,7 +90,6 @@ I mastered the basics of the programmer mindset through these projects. Focus ar
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Flex936&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flex936&theme=dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flex936&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </div>
 
