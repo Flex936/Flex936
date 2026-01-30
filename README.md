@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Alex%20Tancsik&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%7C%20Building%20high-performance%20systems&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Alex%20Tancsik&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E24A68&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+high-performance+systems;and+modern+user+interfaces" alt="Typing SVG" />
 
