@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Email-tancsik.alex%40gmail.com-e24a68?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <br/>
-<img src="https://img.shields.io/badge/🌍%20Based%20in-Hungary-4ade80?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/🌍%20Based%20in-Hungary-22c55e?style=for-the-badge&labelColor=166534&color=166534" alt="Location" />
 
 </div>
 
@@ -92,66 +92,89 @@
 
 <div align="center">
 
+### 🎬 WatchIt (Backend)
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<p><em>Backend architecture for a film critic website with robust API design and database optimization.</em></p>
+
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Flex936&repo=watchit-backend&theme=radical&hide_border=true&bg_color=0d1117&title_color=e24a68&icon_color=e24a68&text_color=9f9f9f" />
+  <img src="https://img.shields.io/badge/View_Project-e24a68?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+### 📮 Postman Lite
+
+<img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" />
+
+<p><em>Native API testing client built with Tauri combining performance with modern UI.</em></p>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/View_Project-e24a68?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+### 🎥 Clips
+
+<img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />
+
+<p><em>High-performance converter for video files leveraging Rust's speed and safety.</em></p>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/View_Project-e24a68?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<table width="100%">
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+<table>
 <tr>
-<td width="50%">
+<td align="center" width="800">
 
-### 🎬 WatchIt (Backend)
+<br/>
 
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+### 📚 Software Developer and Tester Technician
 
-Backend architecture for a film critic website with robust API design and database optimization.
+<img src="https://img.shields.io/badge/Institution-II.%20Rákóczi%20Ferenc%20Katolikus%20Gimnázium%20és%20Technikum-22c55e?style=for-the-badge&labelColor=166534&color=166534" />
 
-<a href="#"><img src="https://img.shields.io/badge/Explore-e24a68?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
 
-</td>
-<td width="50%">
+<img src="https://img.shields.io/badge/Graduating-2026-e24a68?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 
-### 📮 Postman Lite
+<br/>
 
-<img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=flat-square&logo=solid&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white" />
+<p><em>Mastering software development, testing methodologies, and modern programming practices</em></p>
 
-Native API testing client built with Tauri combining performance with modern UI.
-
-<a href="#"><img src="https://img.shields.io/badge/Explore-e24a68?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎥 Clips
-
-<img src="https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white" />
-
-High-performance converter for video files leveraging Rust's speed and safety.
-
-<a href="#"><img src="https://img.shields.io/badge/Explore-e24a68?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%">
-
-### 🎓 Education
-
-**Software Developer and Tester Technician**  
-*II. Rákóczi Ferenc Katolikus Gimnázium és Technikum*
-
-📅 **Graduating:** 2026
+<br/>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
